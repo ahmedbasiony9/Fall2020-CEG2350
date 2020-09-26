@@ -1,0 +1,8 @@
+#! /bin/bash
+
+pwddir=$PWD
+
+echo $pwddir>/home/ubuntu/git/Fall2020-CEG2350/Lab04/scripts/pwddir.txt
+
+
+
