@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+echo "a statement" > /home/ubuntu/git/Fall2020-CEG2350/Lab07/still-going.txt
+sleep 15
+done
